@@ -1,0 +1,6 @@
+Thabo,72,PASS
+Lerato,85,PASS
+David,88,PASS
+Sipho,42,FAIL
+Kagiso,58,PASS
+Mpho,39,FAIL
